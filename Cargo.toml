@@ -1,11 +1,11 @@
 [package]
 name = "simd_bytes"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["CGQAQ <m.jason.liu@outlook.com>"]
 license = "MIT"
 keywords = ["simd", "bytes", "fast", "utility"]
-description = "simd utility functions to handle bytes data."
+description = "simd utility functions for handle bytes data."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
