@@ -3,7 +3,7 @@ name = "simd_bytes"
 version = "0.1.0"
 edition = "2021"
 authors = ["CGQAQ <m.jason.liu@outlook.com>"]
-license = "MIT LICENSE"
+license = "MIT"
 keywords = ["simd", "bytes", "fast", "utility"]
 description = "simd utility functions to handle bytes data."
 
