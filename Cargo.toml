@@ -9,4 +9,7 @@ description = "simd utility functions for handle bytes data."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
+[lib]
+name = "simd_bytes"
+
 [dependencies]
