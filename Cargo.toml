@@ -12,8 +12,5 @@ description = "simd utility functions for handle bytes data."
 [lib]
 name = "simd_bytes"
 
-[workspace]
-members = ["macros", "tests"]
-
 
 [dependencies]
