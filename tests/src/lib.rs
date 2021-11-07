@@ -14,6 +14,6 @@ struct TestLayoutMemberAttr {}
 
 #[test]
 fn test_layout_member_attr_single_8() {
-    #[layout_member(8)]
+    #[layout_member(x86, 128)]
     union Foo {}
 }
